@@ -3,7 +3,6 @@ This repository contains the course projects and quizzes for the **Coursera Data
 
   - [Coursera](https://www.coursera.org/specializations/jhu-data-science) 
   - [Course material](http://datasciencespecialization.github.io/)
-  - [Course certificate](https://www.coursera.org/account/accomplishments/specialization/KHE7V3L7JV5U)
 
 # Specialization Description
 This Specialization covers the concepts and tools you'll need throughout the entire data science pipeline, 
@@ -13,13 +12,7 @@ At completion, students will have a portfolio demonstrating their mastery of the
 
 # Content
 
-  - [The Data Scientist’s Toolbox](https://github.com/wamber-aww/coursera-data-science/tree/gh-pages/Course01_DataScientistsToolbox)
-  - [R Programming](https://github.com/wamber-aww/coursera-data-science/tree/gh-pages/Course02_RProgramming)
-  - [Getting and Cleaning Data](https://github.com/wamber-aww/coursera-data-science/tree/gh-pages/Course03_GetAndCleanData)
-  - [Exploratory Data Analysis](https://github.com/wamber-aww/coursera-data-science/tree/gh-pages/Course04_ExploreDataAnalysis)
-  - [Reproducible Research](https://github.com/wamber-aww/coursera-data-science/tree/gh-pages/Course05_ReproducibleResearch)
-  - [Statistical Inference](https://github.com/wamber-aww/coursera-data-science/tree/gh-pages/Course06_Stats)
-  - [Regression Models](https://github.com/wamber-aww/coursera-data-science/tree/gh-pages/Course07_Regression)
-  - [Practical Machine Learning](https://github.com/wamber-aww/coursera-data-science/tree/gh-pages/Course08_MachineLearning)
-  - [Developing Data Products](https://github.com/wamber-aww/coursera-data-science/tree/gh-pages/Course09_DataProducts)
-  - [Capstone](https://github.com/wamber-aww/coursera-data-science/tree/gh-pages/Course10_Capstone)
+  - [The Data Scientist’s Toolbox](https://github.com/sqzhang-jeremy/coursera-JHU-data-science/tree/main/Course01_DataScientistsToolbox)
+  - [R Programming](https://github.com/sqzhang-jeremy/coursera-JHU-data-science/tree/main/Course02_RProgramming)
+
+ 
